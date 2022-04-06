@@ -60,7 +60,7 @@ function makeSound(key){
 
       break;
     default:
-      console.log(button);
+      console.log(key);
   }
 }
 
